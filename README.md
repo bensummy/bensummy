@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bensummy - Ben
-- 👀 I’m interested in ... Python, Data Science, GIS, Finance
+- 👀 I’m interested in ... API Development, Atlassian, Geospatial Tech, Python
 - 📫 How to reach me ... sumnichtben@gmail.com
 
 <!---
